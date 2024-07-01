@@ -8,9 +8,13 @@ redirect_from:
 ---
 *This website is under construction*
 
-I am an applied mathematician working as a postdoctoral researcher in Nadav Dym's lab at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
+I am a postdoctoral researcher in [Nadav Dym](https://nadavdym.github.io)'s lab at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
 
-My research interests are machine learning, optimization and more generally mathematics that applies to machine learning. In the recent years I am focusing on developing mathematical tools to facilitate deep learning on data that is invariant to symmetries, such as sets, point clouds and graphs.
+I did my Ph.D. in Computer Science and Applied Mathematics under the supervision of Prof. [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Weizmann Institute of Science.
+
+My research revolves around developing mathematical tools and practical algorithms to facilitate deep learning on data such as sets, point clouds and graphs.
+
+ interests are machine learning, optimization and more generally mathematics that applies to machine learning. In the recent years I am focusing on developing mathematical tools to facilitate deep learning on data that is invariant to symmetries, such as sets, point clouds and graphs.
 
 The rest of this webpage is a GitHub template, which will be replaced by real content soon.
 
