@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tal Amir's Website"
+title                    : "Tal Amir's Homepage"
 title_separator          : "-"
 name                     : &name "Tal Amir"
 description              : &description "Tal Amir, Technion Math Faculty"
@@ -25,7 +25,7 @@ author:
   name             : "Tal Amir"
   pronouns         : # example: "she/her"  
   bio              : "Applied Math PostDoc"
-  location         : "Faculty of Mathematics"
+  location         : "Haifa, Israel"
   employer         : "Technion Institute of Technology"
   uri              : # URL
   email            : "talamir@campus.technion.ac.il" 
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jerusalem # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
