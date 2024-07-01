@@ -1,7 +1,7 @@
 ---
 title: "Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem "
 collection: publications
-permalink: "/publication/2023 Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem" 
+permalink: /publication/2023-Neural-Injective-Functions-for-Multisets,-Measures-and-Graphs-via-a-Finite Witness-Theorem 
 excerpt: 'Injective embedding for multisets and measures by a shallow neural network'
 date: 2023
 venue: 'NeurIPS 2023'
