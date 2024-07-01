@@ -1,9 +1,9 @@
 ---
 title: "Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem "
 collection: publications
-permalink: /publication/2023-Neural-Injective-Functions-for-Multisets,-Measures-and-Graphs-via-a-Finite Witness-Theorem 
+permalink: /publication/2023-12-01-Neural-Injective-Functions-for-Multisets,-Measures-and-Graphs-via-a-Finite-Witness-Theorem
 excerpt: 'Injective embedding for multisets and measures by a shallow neural network'
-date: 2023
+date: 2023-12-01
 venue: 'NeurIPS 2023'
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
