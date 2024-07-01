@@ -6,7 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*This website is under construction.*
+*This website is under construction*
+
+I am an applied mathematician working as a postdoctoral researcher in Nadav Dym's lab at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
+
+My research interests are machine learning, optimization and more generally mathematics that applies to machine learning. In the recent years I am focusing on developing mathematical tools to facilitate deep learning on data that is invariant to symmetries, such as sets, point clouds and graphs.
+
+The rest of this webpage is a GitHub template, which will be replaced by real content soon.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
