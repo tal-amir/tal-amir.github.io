@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tal Amir's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,13 +8,11 @@ redirect_from:
 ---
 *This website is under construction*
 
-I am a postdoctoral researcher in [Nadav Dym](https://nadavdym.github.io)'s lab at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
+I am a postdoctoral researcher in [Nadav Dym](https://nadavdym.github.io)'s group at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
 
-I did my Ph.D. in Computer Science and Applied Mathematics under the supervision of Prof. [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Weizmann Institute of Science.
+My research focuses on developing mathematical tools and practical algorithms for deep learning on data such as sets, point clouds and graphs.
 
-My research revolves around developing mathematical tools and practical algorithms to facilitate deep learning on data such as sets, point clouds and graphs.
-
- interests are machine learning, optimization and more generally mathematics that applies to machine learning. In the recent years I am focusing on developing mathematical tools to facilitate deep learning on data that is invariant to symmetries, such as sets, point clouds and graphs.
+I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Department of Computer Science and Applied Mathematics at the Weizmann Institute of Science.
 
 The rest of this webpage is a GitHub template, which will be replaced by real content soon.
 
