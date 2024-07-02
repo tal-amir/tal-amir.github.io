@@ -65,6 +65,13 @@ layout: default
           {% elsif page.slidesurl %}
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
           {% endif %}
+          {% if page.abstract %}
+          <p>BibTeX:
+          {```
+          {{ page.bibtex }}
+          ``` | markdownify}
+          </p>
+          {% endif %}
         {% endif %}
 
 
