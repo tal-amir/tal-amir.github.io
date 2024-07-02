@@ -51,7 +51,8 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        <section markdown="1">
+        <div>
+
           # Your Markdown Content
           
           **Bold text**, *italic text*, [link](https://example.com)
@@ -59,7 +60,8 @@ layout: default
           - List item 1
           - List item 2
           - List item 3          
-        </section>
+
+        </div>
 
         {% if page.collection == 'publications' %}
           {% if page.citation and page.paperurl and page.slidesurl %}
