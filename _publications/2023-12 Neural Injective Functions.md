@@ -10,7 +10,7 @@ paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
-abstract: |
+bibtex: |
     @article{amir2023neural,
     title={Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
     author={Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
