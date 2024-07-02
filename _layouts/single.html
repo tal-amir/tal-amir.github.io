@@ -51,6 +51,16 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        <section markdown="1">
+          # Your Markdown Content
+          
+          **Bold text**, *italic text*, [link](https://example.com)
+          
+          - List item 1
+          - List item 2
+          - List item 3          
+        </section>
+
         {% if page.collection == 'publications' %}
           {% if page.citation and page.paperurl and page.slidesurl %}
             <p>Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper website</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
@@ -66,17 +76,6 @@ layout: default
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
           {% endif %}
           {% if page.bibtex %}
-
-          <textarea id="markdown-content" style="display:none;">
-            # Your Markdown Content
-            **Bold text**, *italic text*, [link](https://example.com)
-                </textarea>
-                <div id="html-content"></div>
-            
-                <script>
-                    document.getElementById('html-content').innerHTML = marked(document.getElementById('markdown-content').value);
-                </script>
-                          
           <p>BibTeX:
             <section markdown="block">
             ```
