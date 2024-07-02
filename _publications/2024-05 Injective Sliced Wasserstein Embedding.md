@@ -10,6 +10,15 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @article{amir2024injective,
+    title={Injective Sliced-Wasserstein embedding for weighted sets and point clouds},
+    author={Amir, Tal and Dym, Nadav},
+    journal={arXiv preprint arXiv:2405.16519},
+    year={2024}
+    }
+    ```
 ---
 
 
