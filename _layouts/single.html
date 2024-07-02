@@ -66,12 +66,22 @@ layout: default
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
           {% endif %}
           {% if page.bibtex %}
+
+          <textarea id="markdown-content" style="display:none;">
+            # Your Markdown Content
+            **Bold text**, *italic text*, [link](https://example.com)
+                </textarea>
+                <div id="html-content"></div>
+            
+                <script>
+                    document.getElementById('html-content').innerHTML = marked(document.getElementById('markdown-content').value);
+                </script>
+                          
           <p>BibTeX:
             <section markdown="block">
             ```
-
             {{ page.bibtex }}
-            
+
             ```
             </section>
         </p>
