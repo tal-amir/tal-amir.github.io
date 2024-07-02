@@ -51,7 +51,25 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
+        {% if page.collection == 'publications' %}
+          {% if page.citation and page.paperurl and page.slidesurl %}
+            <p>Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper website</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
+          {% elsif page.citation and page.paperurl %}
+            <p>Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper website</a></p>
+          {% elsif page.citation and page.slidesurl %}
+            <p>Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
+          {% elsif page.citation %}
+            <p>Recommended citation: {{ page.citation }}</p>
+          {% elsif page.paperurl %}
+            <p><a href=" {{ page.paperurl }} ">Paper website</a></p>
+          {% elsif page.slidesurl %}
+            <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
+          {% endif %}
+        {% endif %}
+
+
+        {% if page.collection == 'publications' %}
+        {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper website</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper website</a></p>
