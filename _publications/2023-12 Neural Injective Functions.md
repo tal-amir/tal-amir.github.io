@@ -1,10 +1,10 @@
 ---
 title: "Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem"
 collection: publications
-permalink: "/publication/2023-12-01 Neural Injective Functions"
+permalink: "/publication/2023-12 Neural Injective Functions"
 excerpt: #'A short description'
 #date: #2023-12-01
-venue: '*Advances in Neural Information Processing Systems 37* (NeurIPS 2023, *spotlight paper*)'
+venue: '*Advances in Neural Information Processing Systems 37* (NeurIPS 2023 *spotlight paper*, 3% acceptance rate)'
 authors: "Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym"
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
