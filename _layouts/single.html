@@ -38,8 +38,8 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>{% if post.authors %}{{ post.authors }}{% endif %}{% if post.venue %}{{ post.venue  | markdownify }}{% endif %}</p>
+        {% elsif page.collection == 'publications' %}
+          <p>{% if page.authors %}{{ page.authors }}{% endif %}{% if page.venue %}{{ page.venue  | markdownify }}{% endif %}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
