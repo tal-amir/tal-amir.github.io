@@ -6,7 +6,7 @@ permalink: "/publication/2023-12-01 Neural Injective Functions"
 #date: 2023-12-01
 venueprefix: ''
 venue: 'Advances in Neural Information Processing Systems 37'
-venuesuffix: '(NeurIPS 2023, spotlight paper)'
+venuesuffix: '(NeurIPS 2023, *spotlight paper*)'
 authors: "Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym"
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

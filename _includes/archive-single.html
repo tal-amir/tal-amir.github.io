@@ -45,7 +45,7 @@
         {% elsif post.collection == 'publications' %}
           {% if post.authors %}<p>{{ post.authors }}</p>{% endif %}
            
-          <p>{% if post.venueprefix %}{{ post.venueprefix }} {% endif %}<i>{{ post.venue }}</i>{% if post.venuesuffix %} {{ post.venuesuffix }}{% endif %}{% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %} </p>
+          <p>{% if post.venueprefix %}{{ post.venueprefix | markdownify }} {% endif %}<i>{{ post.venue }}</i>{% if post.venuesuffix %} {{ post.venuesuffix | markdownify }}{% endif %}{% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -57,15 +57,15 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper website</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper website</a></p>
     {% elsif post.citation and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+      <p><a href=" {{ post.paperurl }} ">Paper website</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
