@@ -66,11 +66,13 @@ layout: default
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
           {% endif %}
           {% if page.bibtex %}
-          <p>BibTeX:<div class="tip" markdown="1">
-          ```
-          {{ page.bibtex }}
-          ```
-          </div></p>
+          <p>BibTeX:
+            <section markdown="block">
+            ```
+            {{ page.bibtex }}
+            ```
+            </section>
+        </p>
           {% endif %}
         {% endif %}
 
