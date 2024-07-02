@@ -2,7 +2,7 @@
 title: "Wide Baseline Stereo Matching with Convex Bounded Distortion Constraints"
 collection: publications
 permalink: "/publication/2015-12 Wide Baseline Stereo"
-venue: '*Proceedings of the IEEE International Conference on Computer Vision*, pp. 2228-2236. 2015'
+venue: '*Proceedings of the IEEE International Conference on Computer Vision* (ICCV 2015)'
 authors: "Meirav Galun, Tal Amir, Tal Hassner, Ronen Basri, Yaron Lipman"
 paperurl: 'https://openaccess.thecvf.com/content_iccv_2015/html/Galun_Wide_Baseline_Stereo_ICCV_2015_paper.html'
 ###########################################################################################

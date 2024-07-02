@@ -2,7 +2,7 @@
 title: "Early Consumption of Peanuts in Infancy is Associated with a Low Prevalence of Peanut Allergy"
 collection: publications
 permalink: "/publication/2008-11 Early Consumption of Peanuts"
-venue: '*Journal of Allergy and Clinical Immunology* 122.5, 2008'
+venue: '*Journal of Allergy and Clinical Immunology* 122.5 (2008)'
 authors: "George Du Toit, Yitzhak Katz, Peter Sasieni, David Mesher, Soheila J. Maleki, Helen R. Fisher, Adam T. Fox, Victor Turcanu, Tal Amir, Galia Zadik-Mnuhin, Adi Cohen, Irit Livne, Gideon Lack"
 paperurl: 'https://doi.org/10.1016/j.jaci.2008.08.039'
 ###########################################################################################

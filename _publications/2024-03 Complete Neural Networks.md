@@ -2,7 +2,7 @@
 title: "Complete Neural Networks for Complete Euclidean Graphs"
 collection: publications
 permalink: "/publication/2024-03 Complete Neural Networks"
-venue: '*Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 38. No. 11. 2024'
+venue: '*Proceedings of the AAAI Conference on Artificial Intelligence* (2024)'
 authors: "Snir Hordan, Tal Amir, Steven J. Gortler, Nadav Dym"
 paperurl: 'https://doi.org/10.1609/aaai.v38i11.29141'
 ###########################################################################################

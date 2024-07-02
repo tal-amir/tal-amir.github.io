@@ -2,7 +2,7 @@
 title: "The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty"
 collection: publications
 permalink: "/publication/2021-09 The Trimmed Lasso"
-venue: '*SIAM journal on mathematics of data science* 3.3 (2021)'
+venue: '*SIAM Journal on Mathematics of Data Science* 3.3 (SIMODS 2021)'
 authors: "Tal Amir, Ronen Basri, Boaz Nadler"
 paperurl: 'https://doi.org/10.1137/20M1330634'
 ###########################################################################################
