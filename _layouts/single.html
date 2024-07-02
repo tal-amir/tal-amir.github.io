@@ -51,7 +51,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        <div>
+        <span style="display:block">
 
           # Your Markdown Content
           
@@ -61,7 +61,7 @@ layout: default
           - List item 2
           - List item 3          
 
-        </div>
+        </span>
 
         {% if page.collection == 'publications' %}
           {% if page.citation and page.paperurl and page.slidesurl %}
