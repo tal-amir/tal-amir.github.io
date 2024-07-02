@@ -80,10 +80,7 @@ layout: default
           {% if page.bibtex %}
           <p>BibTeX:
             <section markdown="block">
-            ```
-            {{ page.bibtex }}
-
-            ```
+            {{ page.bibtex | markdownify }}
             </section>
         </p>
           {% endif %}
