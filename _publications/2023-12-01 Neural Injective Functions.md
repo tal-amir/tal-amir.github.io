@@ -4,9 +4,9 @@ collection: publications
 permalink: "/publication/2023-12-01 Neural Injective Functions"
 excerpt: 'Injective embedding for multisets and measures by a shallow neural network'
 date: 2023-12-01
-venueprefix: 'Venue:'
-venue: 'NeurIPS 2023'
-venuesuffix: '(spotlight paper)'
+venueprefix: ''
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
+venuesuffix: '(2023, _spotlight paper_)'
 authors: "Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym"
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
