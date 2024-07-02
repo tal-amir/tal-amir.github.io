@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+{% if 0 == 1 and site.author.googlescholar %}
   <div class="wordwrap">You can find my full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
