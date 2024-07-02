@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tal Amir's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tal Amir"
 description              : &description "Tal Amir, Technion Math Faculty"
