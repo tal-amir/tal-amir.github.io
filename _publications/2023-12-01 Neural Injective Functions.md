@@ -3,7 +3,7 @@ title: "Neural Injective Functions for Multisets, Measures and Graphs via a Fini
 collection: publications
 permalink: "/publication/2023-12-01 Neural Injective Functions"
 excerpt: #'A short description'
-date: #2023-12-01
+#date: #2023-12-01
 venue: '*Advances in Neural Information Processing Systems 37* (NeurIPS 2023, *spotlight paper*)'
 authors: "Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym"
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
