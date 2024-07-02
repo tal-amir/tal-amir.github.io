@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*This website is under construction*
 
 I am a postdoctoral researcher in [Nadav Dym](https://nadavdym.github.io)'s group at the Faculty of Mathematics at the Technion Institute of Technology, Haifa, Israel.
 

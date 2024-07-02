@@ -2,7 +2,7 @@
 title: "A New Rank Constraint on Multi-View Fundamental Matrices, and its Application to Camera Location Recovery"
 collection: publications
 permalink: "/publication/2017-07 A New Rank Constraint"
-venue: '*Proceedings of the IEEE conference on Computer Vision and Pattern Recognition* (CVPR 2017)'
+venue: '*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (CVPR 2017)'
 authors: "Soumyadip Sengupta, Tal Amir, Meirav Galun, Tom Goldstein, David W. Jacobs, Amit Singer, Ronen Basri"
 paperurl: 'https://openaccess.thecvf.com/content_cvpr_2017/html/Sengupta_A_New_Rank_CVPR_2017_paper.html'
 ###########################################################################################
