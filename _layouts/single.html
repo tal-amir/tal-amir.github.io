@@ -60,7 +60,7 @@ layout: default
             <p>Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
           {% elsif page.citation %}
             <p>Recommended citation: {{ page.citation }}</p>
-          {% elsif page.paperurl %}
+          {%  elsif page.paperurl %}
             <p><a href=" {{ page.paperurl }} ">Paper website</a></p>
           {% elsif page.slidesurl %}
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
