@@ -13,7 +13,7 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 bibtex: |
     ```
     @inproceedings{hordan2024weisfeiler,
-    title={Weisfeiler Leman for Euclidean Equivariant Machine Learning},
+    title={{W}eisfeiler {L}eman for {E}uclidean Equivariant Machine Learning},
     author={Hordan, Snir and Amir, Tal and Dym, Nadav},
     booktitle={41st International Conference on Machine Learning},
     year={2024},

@@ -14,7 +14,7 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 bibtex: |
     ```
     @inproceedings{hordan2024complete,
-    title={Complete Neural Networks for Complete Euclidean Graphs},
+    title={Complete Neural Networks for Complete {E}uclidean Graphs},
     author={Hordan, Snir and Amir, Tal and Gortler, Steven J and Dym, Nadav},
     booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
     volume={38},

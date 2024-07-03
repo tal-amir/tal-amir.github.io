@@ -1,5 +1,5 @@
 ---
-title: "Early Consumption of Peanuts in Infancy is Associated with a Low Prevalence of Peanut Allergy"
+title: "Early consumption of peanuts in infancy is associated with a low prevalence of peanut allergy"
 collection: publications
 permalink: "/publication/2008-11 Early Consumption of Peanuts"
 venue: '*Journal of Allergy and Clinical Immunology* 122.5 (JACI 2008)'
