@@ -2,7 +2,7 @@
 title: "Injective Sliced-Wasserstein Embedding for Weighted Sets and Point Clouds"
 collection: publications
 permalink: "/publication/2024-05 Injective Sliced Wasserstein Embedding"
-venue: '*arXiv preprint arXiv:2405.16519* (arXiv 2024, under review)'
+venue: '*arXiv preprint arXiv:2405.16519* (2024 preprint, under review)'
 authors: "Tal Amir, Nadav Dym"
 paperurl: 'https://arxiv.org/abs/2405.16519'
 excerpt: #'A short description'
@@ -13,7 +13,7 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 bibtex: |
     ```
     @article{amir2024injective,
-    title={Injective Sliced-Wasserstein embedding for weighted sets and point clouds},
+    title={Injective Sliced-Wasserstein Embedding for Weighted Sets and Point Clouds},
     author={Amir, Tal and Dym, Nadav},
     journal={arXiv preprint arXiv:2405.16519},
     year={2024}

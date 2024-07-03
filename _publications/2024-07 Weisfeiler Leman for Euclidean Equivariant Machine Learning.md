@@ -10,6 +10,16 @@ paperurl: 'https://icml.cc/virtual/2024/poster/34751'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @inproceedings{hordan2024weisfeiler,
+    title={Weisfeiler Leman for Euclidean Equivariant Machine Learning},
+    author={Hordan, Snir and Amir, Tal and Dym, Nadav},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2004},
+    note={(in press)}
+    }
+    ```
 ---
 
 **Abstract**
