@@ -11,6 +11,16 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @inproceedings{galun2015wide,
+    title={Wide Baseline Stereo Matching with Convex Bounded Distortion Constraints},
+    author={Galun, Meirav and Amir, Tal and Hassner, Tal and Basri, Ronen and Lipman, Yaron},
+    booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+    pages={2228--2236},
+    year={2015}
+    }
+    ```
 ---
 
 

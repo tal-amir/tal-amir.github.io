@@ -11,6 +11,19 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @article{du2008early,
+    title={Early consumption of peanuts in infancy is associated with a low prevalence of peanut allergy},
+    author={Du Toit, George and Katz, Yitzhak and Sasieni, Peter and Mesher, David and Maleki, Soheila J and Fisher, Helen R and Fox, Adam T and Turcanu, Victor and Amir, Tal and Zadik-Mnuhin, Galia and others},
+    journal={Journal of Allergy and Clinical Immunology},
+    volume={122},
+    number={5},
+    pages={984--991},
+    year={2008},
+    publisher={Elsevier}
+    }
+    ```
 ---
 
 

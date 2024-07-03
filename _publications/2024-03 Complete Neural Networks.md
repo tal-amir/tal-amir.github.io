@@ -11,6 +11,18 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @inproceedings{hordan2024complete,
+    title={Complete Neural Networks for Complete Euclidean Graphs},
+    author={Hordan, Snir and Amir, Tal and Gortler, Steven J and Dym, Nadav},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={38},
+    number={11},
+    pages={12482--12490},
+    year={2024}
+    }
+    ```
 ---
 
 

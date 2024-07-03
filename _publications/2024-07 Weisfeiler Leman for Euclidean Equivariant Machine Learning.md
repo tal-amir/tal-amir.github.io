@@ -15,9 +15,10 @@ bibtex: |
     @inproceedings{hordan2024weisfeiler,
     title={Weisfeiler Leman for Euclidean Equivariant Machine Learning},
     author={Hordan, Snir and Amir, Tal and Dym, Nadav},
-    booktitle={Forty-first International Conference on Machine Learning},
-    year={2004},
-    note={(in press)}
+    booktitle={41st International Conference on Machine Learning},
+    year={2024},
+    organization={PMLR},
+    note={in press}
     }
     ```
 ---

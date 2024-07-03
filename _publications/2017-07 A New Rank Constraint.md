@@ -11,8 +11,17 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @inproceedings{sengupta2017new,
+    title={A New Rank Constraint on Multi-View Fundamental Matrices, and its Application to Camera Location Recovery},
+    author={Sengupta, Soumyadip and Amir, Tal and Galun, Meirav and Goldstein, Tom and Jacobs, David W and Singer, Amit and Basri, Ronen},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={4798--4806},
+    year={2017}
+    }
+    ```
 ---
-
 
 **Abstract**
 

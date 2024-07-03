@@ -11,6 +11,19 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @article{amir2021trimmed,
+    author = {Amir, Tal and Basri, Ronen and Nadler, Boaz},
+    title = {The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty},
+    journal = {SIAM Journal on Mathematics of Data Science},
+    volume = {3},
+    number = {3},
+    pages = {900-929},
+    year = {2021},
+    doi = {10.1137/20M1330634}
+    }
+    ```
 ---
 
 

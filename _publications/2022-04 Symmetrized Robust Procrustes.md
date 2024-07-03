@@ -11,6 +11,15 @@ excerpt: #'A short description'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
+bibtex: |
+    ```
+    @article{amir2022symmetrized,
+    title={Symmetrized Robust Procrustes: Constant-Factor Approximation and Exact Recovery},
+    author={Amir, Tal and Kovalsky, Shahar and Dym, Nadav},
+    journal={arXiv preprint arXiv:2207.08592},
+    year={2022}
+    }
+    ```
 ---
 
 
