@@ -2,7 +2,7 @@
 title: "Symmetrized Robust Procrustes: Constant-Factor Approximation and Exact Recovery"
 collection: publications
 permalink: "/publication/2022-04 Symmetrized Robust Procrustes"
-venue: '*arXiv preprint arXiv:2207.08592* (arXiv 2022)'
+venue: '*arXiv preprint arXiv:2207.08592* (2022 preprint)'
 authors: "Tal Amir, Shahar Kovalsky, Nadav Dym"
 paperurl: 'https://doi.org/10.48550/arXiv.2207.08592'
 ###########################################################################################
