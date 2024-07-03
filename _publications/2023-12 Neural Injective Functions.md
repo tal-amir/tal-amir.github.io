@@ -12,12 +12,11 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 #abstract: 'This is a test abstract *good one* **nice one**'
 bibtex: |
     ```
-    @article{amir2023neural,
-    title={Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
-    author={Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
-    journal={Advances in Neural Information Processing Systems},
-    volume={37},
-    year={2023}
+    @inproceedings{amir2023neural,
+    title = {Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
+    author = {Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
+    year = {2023},
+    volume = {37}
     }
     ```
 ---
