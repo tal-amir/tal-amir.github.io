@@ -66,9 +66,9 @@ layout: default
             <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
           {% endif %}
           {% if page.bibtex %}
+          <br>
           <p><span style="font-family: monospace, monospace; font-size:80%">BibTeX:</span></bb>
-            <section markdown="block">
-            <br>
+            <section markdown="block">            
             {{ page.bibtex | markdownify }}
             </section>
         </p>
