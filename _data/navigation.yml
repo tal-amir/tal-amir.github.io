@@ -4,6 +4,9 @@ main:
     url: /publications/
     #url: https://scholar.google.co.il/citations?hl=en&user=Lx2W9vMAAAAJ&view_op=list_works&sortby=pubdate
 
+  - title: "Research"
+    url: /research/
+
   # - title: "Talks"
   #   url: /talks/    
 
