@@ -1,7 +1,7 @@
 ---
 title: "Injective Sliced-Wasserstein Embedding for Weighted Sets and Point Clouds"
 collection: publications
-permalink: "/publication/2024-05 Injective Sliced Wasserstein Embedding"
+permalink: "/publication/2024-05 Fourier Sliced Wasserstein Embedding"
 venue: '*arXiv preprint arXiv:2405.16519* (2024 preprint, under review)'
 authors: "Tal Amir, Nadav Dym"
 paperurl: 'https://arxiv.org/abs/2405.16519'
