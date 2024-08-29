@@ -11,7 +11,9 @@ My main research goal is to provide theoretical insights and develop practical m
 
 This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data. Examples include 3D shape analysis, molecular property prediction, and novel drug discovery. This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to such data.
 
-The reason is that these types of data have inherent symmetry structures: for example, sets are invariant to the order of their elements; point clouds are also invariant to rotations, translations, and optionally scaling; and graphs are invariant to node relabeling. Feeding such data naively to neural models in training often results in overfitting. For example, in the case of sets, the model may overfit the arbitrary order in which the set elements are given. While it is possible to construct neural architectures that are invariant to these symmetries, a significant concern is whether these architectures are expressive enough to approximate the function underlying the learning task of interest.
+The reason is that these data types have inherent symmetry structures: For example, sets are invariant to the order of their elements; point clouds can be considered invariant to rotations, translations, and scaling; and graphs are invariant to relabeling of their nodes.
+
+Feeding such data naively to neural models often results in the model overfitting the symmetry of the data, which is arbitrary and irrelevant to the problem. For example, in the case of sets, the model may overfit the order in which the set elements are given. While it is relatively straightforward to construct neural architectures that are invariant to these symmetries, a significant concern is whether these architectures are expressive enough to solve the learning task of interest.
 
 Thus, to unlock the full potential of deep learning for these types of data, it is necessary to develop new theoretical frameworks and algorithmic tools.
 
