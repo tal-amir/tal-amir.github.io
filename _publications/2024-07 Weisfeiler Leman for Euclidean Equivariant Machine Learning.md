@@ -6,7 +6,7 @@ excerpt: #'A short description'
 #date: #2023-12-01
 venue: '*International Conference on Machine Learning* (ICML 2024)'
 authors: "Snir Hordan, Tal Amir, Nadav Dym"
-paperurl: 'https://icml.cc/virtual/2024/poster/34751'
+paperurl: 'https://proceedings.mlr.press/v235/hordan24a.html'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 #abstract: 'This is a test abstract *good one* **nice one**'
