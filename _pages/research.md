@@ -9,7 +9,11 @@ author_profile: true
 
 My main research goal is to provide theoretical insights and develop practical methods to facilitate machine learning, and deep learning in particular, on irregular data such as sets, point clouds, and graphs.
 
-This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data. Examples include 3D shape analysis, molecular property prediction, and novel drug discovery. This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to such data. To unlock the full potential of deep learning for these tasks, it is necessary to develop new theoretical frameworks and algorithmic tools.
+This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data. Examples include 3D shape analysis, molecular property prediction, and novel drug discovery. This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to such data.
+
+The reason is that these types of data have inherent symmetry structures: for example, sets are invariant to the order of their elements; point clouds are also invariant to rotations, translations, and optionally scaling; and graphs are invariant to node relabeling. Feeding such data naively to neural models in training often results in overfitting. For example, in the case of sets, the model may overfit the arbitrary order in which the set elements are given. While it is possible to construct neural architectures that are invariant to these symmetries, a significant concern is whether these architectures are expressive enough to approximate the function underlying the learning task of interest.
+
+Thus, to unlock the full potential of deep learning for these types of data, it is necessary to develop new theoretical frameworks and algorithmic tools.
 
 Our group's efforts have already produced several papers published in top-tier venues, with some presenting groundbreaking results and solutions to long-standing open problems. For example:
 
