@@ -4,7 +4,7 @@ collection: publications
 permalink: "/publication/2024-07 Weisfeiler Leman for Euclidean Equivariant Machine Learning"
 excerpt: #'A short description'
 #date: #2023-12-01
-venue: '*International Conference on Machine Learning* (ICML 2024, to appear)'
+venue: '*International Conference on Machine Learning* (ICML 2024)'
 authors: "Snir Hordan, Tal Amir, Nadav Dym"
 paperurl: 'https://icml.cc/virtual/2024/poster/34751'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
