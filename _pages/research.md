@@ -9,11 +9,11 @@ author_profile: true
 
 My main research goal is to provide theoretical insights and develop practical methods to facilitate machine learning, and particularly deep learning, on irregular data such as sets, point clouds, and graphs.
 
-This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data. Examples include 3D shape analysis, molecular property prediction, and novel drug discovery.
+This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data; for example, 3D shape analysis, molecular property prediction, and novel drug discovery. This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to these data types.
 
-This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to such data. The reason is that these data types have inherent symmetry structures: For example, sets are invariant to the order of their elements; graphs are invariant to relabeling of their nodes; and point clouds are often considered invariant to rotations and translations.
+The primary reason is that such data has inherent symmetry structures: For example, sets are invariant to the order of their elements; graphs are similarly invariant to relabeling of their nodes; and point clouds are often considered invariant to rotations and translations.
 
-Feeding such data naively to neural models often results in the model overfitting the arbitrary symmetry of the data, which is irrelevant to the problem. For example, in the case of sets, the model may overfit the order in which the set elements are given. While it is relatively simple to construct neural architectures that are invariant to these symmetries, a significant concern is whether these architectures are expressive enough for the learning task at hand.
+Feeding such data naively to neural models often results in the model overfitting the arbitrary symmetry of the data. For example, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct neural architectures that are invariant to these symmetries, a significant concern is whether the architecture is expressive enough for the task at hand.
 
 Thus, to unlock the full potential of deep learning for these types of data, it is necessary to develop new theoretical frameworks and algorithmic tools.
 
