@@ -11,9 +11,9 @@ My main research goal is to provide theoretical insights and develop practical m
 
 This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data, including 3D shape analysis, molecular property prediction, and novel drug discovery.
 
-This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to these data types. The primary reason is that such data have inherent symmetry structures. For example, sets are invariant to the order of their elements; graphs are typically invariant to relabeling of their nodes; and point clouds are often assumed invariant to rotations and translations.
+This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to these data types. The primary reason is that such data have inherent symmetry structures. Sets, for example, are invariant to the order of their elements; graphs are typically invariant to relabeling of their nodes; and point clouds are often assumed invariant to rotations and translations.
 
-Feeding such data naively to neural models often results in the model overfitting the arbitrary symmetry of the data. For example, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct neural architectures that are invariant to these symmetries, a significant concern is whether the architecture is expressive enough for the task at hand.
+Feeding such data naively to neural models often results in the model overfitting the arbitrary symmetry of the data. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct neural architectures that are invariant to these symmetries, a significant concern is whether the architecture is expressive enough for the task at hand.
 
 Thus, to unlock the full potential of deep learning for these types of data, it is necessary to develop new theoretical frameworks and algorithmic tools.
 
