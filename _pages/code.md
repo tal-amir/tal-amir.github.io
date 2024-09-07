@@ -14,15 +14,15 @@ author_profile: true
 Solver for the sparse approximation problem, based on the Generalized Soft-Min (GSM) penalty.  
 
 Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty.*](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso)"  
-<a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none; color: inherit;">`Matlab`</a>
-<a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none; color: inherit;">`C`</a>
+<a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none;">`Matlab`</a>
+<a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none;">`C`</a>
 
 ### Fourier Sliced-Wasserstein Embedding
 
 Efficient implementation of the FSW embedding — a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
-<a href="https://tal-amir.github.io/soon" style="text-decoration: none; color: inherit;">`PyTorch`</a>
+<a href="https://tal-amir.github.io/soon" style="text-decoration: none;">`PyTorch`</a>
 
 
 
