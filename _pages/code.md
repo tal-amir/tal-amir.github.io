@@ -14,7 +14,7 @@ author_profile: true
 Solver for the sparse approximation problem, based on the Generalized Soft-Min (GSM) penalty.  
 
 Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty.*](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso)"  
-`Matlab` `C` &nbsp; [Code](https://github.com/tal-amir/sparse-approximation-gsm)
+`Matlab` `C` &nbsp; [code](https://github.com/tal-amir/sparse-approximation-gsm)
 
 
 ### Fourier Sliced-Wasserstein Embedding
@@ -22,7 +22,7 @@ Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Pr
 Efficient implementation of the FSW embedding — a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
-`PyTorch`  [Code](https://tal-amir.github.io/soon)
+`PyTorch` &nbsp; [code](https://tal-amir.github.io/soon)
 
 
 
@@ -33,7 +33,7 @@ A 1-WL poweful graph neural network for graphs with multidimensional vertex and 
 - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is provably impossible).  
      
 Part of our paper titled "[*FSW-GNN: Bi-Lipschitz Euclidean Embedding for Graphs*](https://tal-amir.github.io/soon/)"  
-`PyTorch Geometric`  [Code](https://tal-amir.github.io/soon)
+`PyTorch Geometric` &nbsp; [code](https://tal-amir.github.io/soon)
 
   
 [//]: <> (  https://github.com/tal-amir/fsw-gnn  )
