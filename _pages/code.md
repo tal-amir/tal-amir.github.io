@@ -17,7 +17,7 @@ Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Pr
 `Matlab` `C` [[code](https://github.com/tal-amir/sparse-approximation-gsm)]
 
 
-### [Fourier Sliced-Wasserstein (FSW) Embedding](https://tal-amir.github.io/soon)
+### Fourier Sliced-Wasserstein Embedding
 
 Efficient implementation of the FSW embedding — a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
@@ -26,7 +26,7 @@ Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets a
 
 
 
-### [Fourier Sliced-Wasserstein Graph Neural Network (FSW-GNN)](https://tal-amir.github.io/soon)
+### Fourier Sliced-Wasserstein Graph Neural Network (FSW-GNN)
 
 A 1-WL poweful graph neural network for graphs with multidimensional vertex and edge features.  
 - When randomly initialized, this GNN computes a bi-Lipschitz Euclidean embedding for such graphs.  
