@@ -22,7 +22,7 @@ author_profile: true
 - [Fourier Sliced-Wasserstein Graph Neural Network (FSW-GNN)](https://tal-amir.github.io/soon/)  
   A graph neural network for graphs with multidimensional vertex and edge features, which has 1-WL separation power.  
   - When randomly initialized, this GNN computes a bi-Lipschitz Euclidean embedding for such graphs.  
-  - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is impossible).
+  - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is provably impossible).
   `PyTorch Geometric`
     
   Part of our paper titled "[*FSW-GNN: Bi-Lipschitz Euclidean Embedding for Graphs*](https://tal-amir.github.io/soon/)"
