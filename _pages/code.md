@@ -33,7 +33,7 @@ A 1-WL poweful graph neural network for graphs with multidimensional vertex and 
 - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is provably impossible).  
      
 Part of our paper titled "[*FSW-GNN: Bi-Lipschitz Euclidean Embedding for Graphs*](https://tal-amir.github.io/soon/)"  
-`PyTorch Geometric` &nbsp; [code](https://tal-amir.github.io/soon)
+[`PyTorch Geometric`](https://tal-amir.github.io/soon) &nbsp; [code](https://tal-amir.github.io/soon)
 
   
 [//]: <> (  https://github.com/tal-amir/fsw-gnn  )
