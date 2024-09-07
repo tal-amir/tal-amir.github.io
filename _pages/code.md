@@ -20,7 +20,9 @@ author_profile: true
   Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"
   
 - [Fourier Sliced-Wasserstein Graph Neural Network (FSW-GNN)](https://tal-amir.github.io/soon/)  
-  A graph neural network based on the FSW embeding, which computes a bi-Lipschitz Euclidean embedding for graphs with vertex features. This embedding supports and is injective on graphs with edge weights and multidimensional edge features.  
+  A graph neural network for graphs with multidimensional vertex and edge features, with 1-WL separation power.
+  When randomly initialized, this GNN computes a bi-Lipschitz Euclidean embedding for such graphs.
+  Additionally supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is impossible) in that regime.
   `PyTorch Geometric`
     
   Part of our paper titled "[*FSW-GNN: Bi-Lipschitz Euclidean Embedding for Graphs*](https://tal-amir.github.io/soon/)"
