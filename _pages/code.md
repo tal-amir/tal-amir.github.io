@@ -14,7 +14,7 @@ author_profile: true
 Solver for the sparse approximation problem, based on the Generalized Soft-Min (GSM) penalty.  
 
 Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty.*](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso)"  
-`Matlab` `C`  [Code](https://github.com/tal-amir/sparse-approximation-gsm)
+`Matlab` `C` &nbsp; [Code](https://github.com/tal-amir/sparse-approximation-gsm)
 
 
 ### Fourier Sliced-Wasserstein Embedding
