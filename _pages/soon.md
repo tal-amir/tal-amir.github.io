@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "To be uploaded soon"
 permalink: /soon/
 author_profile: true
 ---
