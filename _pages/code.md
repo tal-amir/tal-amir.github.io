@@ -22,7 +22,7 @@ Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Pr
 Efficient implementation of the FSW embedding — a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
-`PyTorch`  [[code](https://tal-amir.github.io/soon)]
+[code](https://tal-amir.github.io/soon): `PyTorch`
 
 
 
