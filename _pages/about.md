@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in [Nadav Dym](https://nadavdym.github.io)'s group at the Faculty of Mathematics, Technion Institute of Technology, Haifa, Israel.
+I am a research associate at the Faculty of Mathematics, Technion Institute of Technology, Haifa, Israel, working with [Dr. Nadav Dym](https://nadavdym.github.io).
 
 My research interests encompass machine learning and optimization, with a focus on developing mathematical tools and practical algorithms to enable deep learning on irregular data types such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
 
