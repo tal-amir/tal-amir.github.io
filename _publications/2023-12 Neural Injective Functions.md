@@ -15,6 +15,7 @@ bibtex: |
     @inproceedings{amir2023neural,
     title = {Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
     author = {Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
+    booktitle = {Advances in Neural Information Processing Systems},
     year = {2023},
     volume = {37}
     }
