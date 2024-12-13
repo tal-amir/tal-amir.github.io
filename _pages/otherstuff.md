@@ -9,4 +9,4 @@ author_profile: true
 
 
 - [Preparing slides and giving an _excellent_ academic talk / Boaz Nadler](https://tal-amir.github.io/files/Preparing slides and giving an excellent academic talk [Boaz Nadler].pdf)  
-  An invaluable resource for creating impactful presentations, distilled from years of academic experience.
+  A valuable resource filled with practical advice, distilled from years of academic experience.
