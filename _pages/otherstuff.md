@@ -10,9 +10,7 @@ author_profile: true
 ### Some good advice
 - [Preparing slides and giving an _excellent_ academic talk / Boaz Nadler](https://tal-amir.github.io/files/Preparing slides and giving an excellent academic talk [Boaz Nadler].pdf) `PDF`  
   A valuable resource filled with practical advice, distilled from years of academic experience.
-- Jonathan Shewchuk:
-  1. [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
-  2. [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
+- Jonathan Shewchuk: [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html), [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 - [Information for students (but not only) / Mike Hochman](http://math.huji.ac.il/~mhochman/info-for-students.html)
 
 ### Other other-stuff
