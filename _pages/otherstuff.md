@@ -13,8 +13,9 @@ author_profile: true
 - Jonathan Shewchuk: [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html) \| [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 - [Information for students (but not only) / Mike Hochman](http://math.huji.ac.il/~mhochman/info-for-students.html)
 
-![](https://tal-amir.github.io/files/explain.gif "I can explain everything"){: .center}
-
+<p align="center">
+![](https://tal-amir.github.io/files/explain.gif '"I can explain everything"')
+</p>
 
 ### Other other-stuff
 - <a href="https://tal-amir.github.io/files/customizePlot.m" style="text-decoration: none;">`customizePlot.m`</a>  
