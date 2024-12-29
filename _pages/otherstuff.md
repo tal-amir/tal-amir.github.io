@@ -14,7 +14,7 @@ author_profile: true
 - [Information for students (but not only) / Mike Hochman](http://math.huji.ac.il/~mhochman/info-for-students.html)
 
 <p align="center">
-<img src="https://tal-amir.github.io/files/explain.gif" alt="" title="I can explain everything." />
+<img src="https://tal-amir.github.io/files/explain.gif" alt="" title="&quot;I can explain everything.&quot;" />
 </p>
 
 ### Other other-stuff
