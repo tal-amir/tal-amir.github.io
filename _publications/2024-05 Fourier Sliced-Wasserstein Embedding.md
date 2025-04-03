@@ -12,11 +12,12 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 #abstract: 'This is a test abstract *good one* **nice one**'
 bibtex: |
     ```
-    @article{amir2024injective,
-    title={Fourier Sliced-{W}asserstein Embedding for Weighted Sets and Point Clouds},
-    author={Amir, Tal and Dym, Nadav},
-    journal={arXiv preprint arXiv:2405.16519},
-    year={2024}
+    @inproceedings{amir2025fsw,
+      title     = {Fourier Sliced-{W}asserstein Embedding for Multisets and Measures},
+      author    = {Amir, Tal and Dym, Nadav},
+      booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
+      year      = {2025},
+      note={To appear}
     }
     ```
 ---
