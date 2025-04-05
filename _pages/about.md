@@ -16,7 +16,7 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 <p align="center">
 <a href="https://www.instagram.com/katia.ansky/">
-<img src="https://tal-amir.github.io/files/explain.gif" alt="" title="&quot;I can explain everything.&quot;" />
+<img src="https://tal-amir.github.io/files/Katya - Tal playing guitar.jpg" alt="" title="Katia Ansky" />
   </a>
 </p>
 
