@@ -13,6 +13,7 @@ My research interests encompass machine learning and optimization, with a focus 
 
 I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Department of Computer Science and Applied Mathematics in the Weizmann Institute of Science.
 
+<div style="margin-top:1em;"></div>
 
 <p align="center">
 <a href="https://www.instagram.com/katia.ansky/">
