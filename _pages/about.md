@@ -15,9 +15,11 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 <br>
 
-<div style="position: relative; display: inline-block; text-align: center;">
-  <a href="https://www.instagram.com/katia.ansky/" target="_blank">
-    <img src="/images/Katia - Tal playing guitar.jpg" alt="Drawing of me playing guitar" style="max-width: 50%; height: auto; display: block;">
+<div style="text-align: center;">
+  <div style="position: relative; display: inline-block;">
+    <a href="https://www.instagram.com/katia.ansky/" target="_blank">
+      <img src="/images/Katia - Tal playing guitar.jpg" alt="Drawing of me playing guitar" style="max-width: 50%; height: auto; display: block;">
+    </a>
     <div style="
       position: absolute;
       bottom: 5px;
@@ -28,9 +30,9 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
       font-style: italic;
       color: #333;
       border-radius: 4px;">
-      Artwork by Katia Ansky
+      Drawing by <a href="https://www.instagram.com/katia.ansky/" target="_blank" style="color: #333; text-decoration: none;">Katia Ansky</a>
     </div>
-  </a>
+  </div>
 </div>
 
 
