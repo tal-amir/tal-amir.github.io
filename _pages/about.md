@@ -15,7 +15,7 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 <br>
 
-<div style="width: 40%; margin: 0 auto;">
+<div style="width: 35%; margin: 0 auto;">
   <a href="https://www.instagram.com/katia.ansky/" target="_blank">
     <img src="/images/Katia - Tal playing guitar.jpg" alt="Drawing of me playing guitar" style="display: block; margin: 0 auto; width: 100%; height: auto;">
   </a>
