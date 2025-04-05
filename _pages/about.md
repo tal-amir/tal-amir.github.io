@@ -15,23 +15,13 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 <br>
 
-<div style="text-align: center;">
-  <div style="position: relative; display: inline-block;">
-    <a href="https://www.instagram.com/katia.ansky/" target="_blank">
-      <img src="/images/Katia - Tal playing guitar.jpg" alt="Drawing of me playing guitar" style="max-width: 50%; height: auto; display: block;">
-    </a>
-    <div style="
-      position: absolute;
-      bottom: 5px;
-      right: 10px;
-      background-color: rgba(255, 255, 255, 0.6);
-      padding: 2px 6px;
-      font-size: 0.75em;
-      font-style: italic;
-      color: #333;
-      border-radius: 4px;">
-      Drawing by <a href="https://www.instagram.com/katia.ansky/" target="_blank" style="color: #333; text-decoration: none;">Katia Ansky</a>
-    </div>
+<div style="width: 55%; margin: 0 auto;">
+  <a href="https://www.instagram.com/katia.ansky/" target="_blank">
+    <img src="/images/Katia - Tal playing guitar.jpg" alt="Drawing of me playing guitar" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+  </a>
+  <br>
+  <div style="text-align: right; font-size: 0.75em; font-style: italic;">
+    Drawing by <a href="https://www.instagram.com/katia.ansky/" target="_blank" style="color: #333; text-decoration: none;">Katia Ansky</a>
   </div>
 </div>
 
