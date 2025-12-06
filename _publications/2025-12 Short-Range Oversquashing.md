@@ -2,7 +2,7 @@
 title: "Short-Range Oversquashing"
 collection: publications
 permalink: "/publication/2025-12 Short-Range Oversquashing"
-venue: '*Learning on Graphs* (LoG 2025, to appear)'
+venue: '*Learning on Graphs* (LoG 2025, oral)'
 authors: "Yaaqov Mishayev, Yonatan Sverdlov, Tal Amir, Nadav Dym"
 paperurl: 'https://arxiv.org/abs/2511.20406'
 excerpt: #'A short description'
