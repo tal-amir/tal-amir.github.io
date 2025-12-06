@@ -2,7 +2,7 @@
 title: "Fourier Sliced-Wasserstein Embedding for Multisets and Measures"
 collection: publications
 permalink: "/publication/2024-05 Fourier Sliced-Wasserstein Embedding"
-venue: '*International Conference on Learning Representations* (ICLR 2025, to appear)'
+venue: '*International Conference on Learning Representations* (ICLR 2025)'
 authors: "Tal Amir, Nadav Dym"
 paperurl: 'https://arxiv.org/abs/2405.16519'
 excerpt: #'A short description'
