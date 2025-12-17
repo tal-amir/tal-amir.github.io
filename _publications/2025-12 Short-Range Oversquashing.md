@@ -2,7 +2,7 @@
 title: "Short-Range Oversquashing"
 collection: publications
 permalink: "/publication/2025-12 Short-Range Oversquashing"
-venue: '*Learning on Graphs* (LoG 2025, oral)'
+venue: '*Learning on Graphs* (LoG 2025, oral, Best Paper Award)'
 authors: "Yaaqov Mishayev, Yonatan Sverdlov, Tal Amir, Nadav Dym"
 paperurl: 'https://arxiv.org/abs/2511.20406'
 excerpt: #'A short description'
@@ -16,8 +16,7 @@ bibtex: |
       title     = {Short-{R}ange {O}versquashing},
       author    = {Mishayev, Yaaqov and Sverdlov, Yonatan and Amir, Tal and Dym, Nadav},
       booktitle = {Learning on Graphs (LoG)},
-      year      = {2025},
-      note={To appear}
+      year      = {2025}
     }
     ```
 ---
