@@ -12,7 +12,7 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 #abstract: 'This is a test abstract *good one* **nice one**'
 bibtex: |
     ```
-    @article{AMIR2026101838,
+    @article{amir2025stability,
     title = {The stability of generalized phase retrieval problem over compact groups},
     journal = {Applied and Computational Harmonic Analysis},
     volume = {82},
