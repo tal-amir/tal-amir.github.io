@@ -2,7 +2,7 @@
 permalink: /
 title: "Tal Amir's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,6 +12,18 @@ I am a research associate at the Faculty of Mathematics, Technion, working with 
 My research interests encompass machine learning and optimization, with a focus on developing mathematical tools and practical algorithms to enable deep learning on structured data types such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
 
 I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Department of Computer Science and Applied Mathematics in the Weizmann Institute of Science.
+
+## Research Highlights
+
+- Developed a [state-of-the-art method for sparse linear recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso) based on a novel penalty that smoothly interpolates between the lasso and the trimmed lasso. [2021, SIMODS]
+
+- Developed the [first neural-function-based injective Euclidean embedding for multisets and measures](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions). [2023, NeurIPS spotlight]
+
+- Developed the [first bounded-distortion Euclidean embedding for multisets](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding), and proved a fundamental impossibility result for such embeddings on distributions. [2025, ICLR]
+
+- Showed that [oversquashing in graph neural networks is not limited to long-range tasks](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing). [2025, LoG Best Paper Award]
+
+- Currently working on developing a low-distortion rotation-invariant Euclidean embedding for 3D point clouds and molecular data.
 
 <!--
 

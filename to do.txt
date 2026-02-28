@@ -1,5 +1,4 @@
 - Add the recent paper
-- Add research highlights
 - Update "Currently we are working on leveraging" paragraph
 - Code: Sort from new to old. Make sure links work.
 
