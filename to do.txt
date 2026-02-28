@@ -1,0 +1,7 @@
+- Add the recent paper
+- Add research highlights
+- Update "Currently we are working on leveraging" paragraph
+- Code: Sort from new to old. Make sure links work.
+
+
+We are now working on furhter expanding the application domains of our embedding, harnessing it to construct bi-Lipschitz embeddings for more complex data types, rotation-invariant point clouds. Our new method has achieved promising preliminary results on molecular data.

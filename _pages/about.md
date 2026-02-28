@@ -9,7 +9,7 @@ redirect_from:
 
 I am a research associate at the Faculty of Mathematics, Technion, working with [Dr. Nadav Dym](https://nadavdym.github.io).
 
-My research interests encompass machine learning and optimization, with a focus on developing mathematical tools and practical algorithms to enable deep learning on irregular data types such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
+My research interests encompass machine learning and optimization, with a focus on developing mathematical tools and practical algorithms to enable deep learning on structured data types such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
 
 I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Department of Computer Science and Applied Mathematics in the Weizmann Institute of Science.
 
