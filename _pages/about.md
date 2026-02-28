@@ -15,7 +15,7 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 ## Research Highlights
 
-- Developed a [state-of-the-art method for sparse linear recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso) based on a novel penalty that smoothly interpolates between the lasso and the trimmed lasso. [2021, SIMODS]
+- Developed a [state-of-the-art method for sparse linear recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso). [2021, SIMODS]
 
 - Developed the [first neural-function-based injective Euclidean embedding for multisets and measures](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions). [2023, NeurIPS spotlight]
 
