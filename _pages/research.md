@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My main research goal is to provide theoretical insights and develop practical methods to facilitate deep learning, on structured data such as sets, point clouds, and graphs.
+My main research goal is to facilitate deep learning on structured data — such as sets, point clouds, and graphs — by developing new theoretical frameworks and practical algorithms. 
 
 This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data, including 3D shape analysis, molecular property prediction, and novel drug discovery.
 
