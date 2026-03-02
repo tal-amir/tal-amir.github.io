@@ -13,7 +13,7 @@ This rapidly growing field is driven by efforts to harness deep learning for app
 
 Applying deep learning to such data poses unique challenges, as they have inherent symmetries: sets are invariant to the order of their elements, graphs to relabeling of their nodes, and point clouds to rotations and translations.           
 
-Feeding such data naively to neural models typically results in overfitting the irrelevant symmetries of the input. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct architectures that are invariant to these symmetries, a key challenge is ensuring that they remain expressive enough for the task at hand.
+Consequently, naively feeding such data to neural models typically results in overfitting the irrelevant symmetries of the input. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct architectures that are invariant to these symmetries, a key challenge is ensuring that they remain expressive enough for the task at hand.
 
 
 Thus, to unlock the full potential of deep learning for these data types, it is necessary to develop new theoretical frameworks and algorithmic tools.
