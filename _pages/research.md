@@ -9,15 +9,16 @@ author_profile: true
 
 My main research goal is to facilitate deep learning on structured data — such as sets, point clouds, and graphs — by developing new theoretical frameworks and practical algorithms. 
 
-This rapidly growing field is driven by ongoing efforts in the community to harness the power of deep learning for crucial applications involving such data, including 3D shape analysis, molecular property prediction, and novel drug discovery.
+This rapidly growing field is driven by efforts to harness deep learning for applications such as 3D shape analysis, molecular property prediction, and recommendation systems.
 
-This goal poses unique challenges, as traditional deep-learning methods cannot be directly applied to these data types. The primary reason is that such data have inherent symmetry structures: sets, for example, are invariant to the order of their elements; graphs are typically invariant to relabeling of their nodes; and point clouds are often assumed invariant to rotations and translations.
+Applying deep learning to such data poses unique challenges, as they have inherent symmetries: sets are invariant to the order of their elements, graphs to relabeling of their nodes, and point clouds to rotations and translations.           
 
-Feeding such data naively to neural models often results in the model overfitting the arbitrary symmetry of the data. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct neural architectures that are invariant to these symmetries, a significant concern is whether the architecture is expressive enough for the task at hand.
+Feeding such data naively to neural models typically results in overfitting the irrelevant symmetries of the input. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct architectures that are invariant to these symmetries, a key challenge is ensuring that they remain expressive enough for the task at hand.
 
-Thus, to unlock the full potential of deep learning for these types of data, it is necessary to develop new theoretical frameworks and algorithmic tools.
 
-Our group's efforts have already produced several papers published in top-tier venues, with some presenting groundbreaking results and solutions to long-standing open problems. For example:
+Thus, to unlock the full potential of deep learning for these data types, it is necessary to develop new theoretical frameworks and algorithmic tools.
+
+Our group's efforts have produced several results addressing these challenges, published in top-tier venues. For example: 
 
 - In [this NeurIPS 2023 paper](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions) (spotlight paper, top 3%) we show how one can construct a simple and efficient neural architecture that takes multisets or measures as input, and injectively embeds them into Euclidean space. These results bridge the gap between the architectures studied in theory, which have beneficial theoretical properties but are not suitable for practical use, and the architectures used in practice—which typically lack theoretical guarantees.
 
