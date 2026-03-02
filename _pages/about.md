@@ -15,15 +15,15 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 ## Research Highlights
 
-- Developed a [state-of-the-art method for sparse signal recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso). [2021, SIMODS]
-
-- Developed the first [injective Euclidean embedding for multisets and measures based on neural functions](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions). [2023, NeurIPS spotlight]
-
-- Developed the first [bounded-distortion Euclidean embedding for multisets](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding), and proved a fundamental impossibility result for such embeddings on distributions. [2025, ICLR]
+- Currently working on developing a low-distortion rotation-invariant Euclidean embedding for 3D point clouds and molecular data.
 
 - Showed that [oversquashing in graph neural networks is not limited to long-range tasks](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing). [2025, LoG Best Paper Award]
 
-- Currently working on developing a low-distortion rotation-invariant Euclidean embedding for 3D point clouds and molecular data.
+- Developed the first [bounded-distortion Euclidean embedding for multisets](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding), and proved a fundamental impossibility result for such embeddings on distributions. [2025, ICLR]
+
+- Developed the first [injective Euclidean embedding for multisets and measures based on neural functions](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions). [2023, NeurIPS spotlight]
+
+- Developed a [state-of-the-art method for sparse signal recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso). [2021, SIMODS]
 
 <!--
 
