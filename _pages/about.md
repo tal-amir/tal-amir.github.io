@@ -15,7 +15,7 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 ## Research Highlights
 
-- Currently working on developing a low-distortion rotation-invariant Euclidean embedding for 3D point clouds and molecular data.
+- Currently working on developing a low-distortion Euclidean embedding for 3D point clouds and molecular data.
 
 - Showed that [oversquashing in graph neural networks is not limited to long-range tasks](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing). [2025, LoG Best Paper Award]
 
