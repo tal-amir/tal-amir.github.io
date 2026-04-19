@@ -16,8 +16,7 @@ bibtex: |
       title     = {Fourier Sliced-{W}asserstein Embedding for Multisets and Measures},
       author    = {Amir, Tal and Dym, Nadav},
       booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
-      year      = {2025},
-      note={To appear}
+      year      = {2025}
     }
     ```
 ---
