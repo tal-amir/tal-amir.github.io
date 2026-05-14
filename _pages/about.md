@@ -25,6 +25,12 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 - Developed a [state-of-the-art method for sparse signal recovery](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso). [2021, SIMODS]
 
+## News
+
+- **Dec 2025** — Our paper on [short-range oversquashing in GNNs](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing) received the **Best Paper Award** at LoG 2025.
+- **2025** — [Fourier Sliced-Wasserstein Embedding](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding) accepted to ICLR 2025.
+- **Dec 2023** — [Neural Injective Functions for Multisets, Measures and Graphs](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions) accepted to NeurIPS 2023 as a **spotlight**.
+
 <!--
 
 <br>
