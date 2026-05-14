@@ -14,14 +14,15 @@ author_profile: true
 Efficient implementation of the FSW embedding—a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
-<a href="https://pypi.org/project/fswlib/" style="text-decoration: none;">`PyTorch`</a>
+<a href="https://pypi.org/project/fswlib/" style="text-decoration: none;">`PyPI`</a>
 <a href="https://github.com/tal-amir/fswlib" style="text-decoration: none;">`GitHub`</a>
+<span style="font-size: 0.85em; font-style: italic;">Install the PyTorch package via <code>pip install fswlib</code>.</span>
 
 
 
 ### Fourier Sliced-Wasserstein Graph Neural Network (FSW-GNN)
 
-A graph neural network with bi-Lipschitz 1-WL separation power for graphs with multidimensional vertex and edge features.  
+A graph neural network with bi-Lipschitz 1-WL separation power for graphs with vertex and edge features.  
 - When randomly initialized, this GNN computes a bi-Lipschitz Euclidean embedding for such graphs.  
 - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is provably impossible).  
      
