@@ -20,3 +20,9 @@
 {% endif %}
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+{% if site.goatcounter.show_counter and site.goatcounter.code and site.goatcounter.code != "" %}
+<div class="page__footer-counter" style="text-align: center; font-size: 0.85em; margin-top: 0.5em;">
+  Visits: <img src="https://{{ site.goatcounter.code }}.goatcounter.com/counter/TOTAL.svg" alt="visitor count" style="vertical-align: middle;">
+</div>
+{% endif %}
