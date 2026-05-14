@@ -4,7 +4,7 @@ collection: publications
 permalink: "/publication/2023-12 Neural Injective Functions"
 excerpt: #'A short description'
 #date: #2023-12-01
-venue: '*Advances in Neural Information Processing Systems 37* (NeurIPS 2023 *spotlight paper*, 3% acceptance rate)'
+venue: '*Advances in Neural Information Processing Systems 36* (NeurIPS 2023 *spotlight paper*, 3% acceptance rate)'
 authors: "Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym"
 paperurl: 'https://neurips.cc/virtual/2023/poster/71561'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
@@ -13,11 +13,15 @@ citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub 
 bibtex: |
     ```
     @inproceedings{amir2023neural,
-    title = {Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
-    author = {Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
+    author    = {Amir, Tal and Gortler, Steven and Avni, Ilai and Ravina, Ravina and Dym, Nadav},
+    title     = {Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem},
     booktitle = {Advances in Neural Information Processing Systems},
-    year = {2023},
-    volume = {37}
+    editor    = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+    volume    = {36},
+    pages     = {42516--42551},
+    publisher = {Curran Associates, Inc.},
+    year      = {2023},
+    url       = {https://proceedings.neurips.cc/paper_files/paper/2023/file/84b686f7cc7b7751e9aaac0da74f755a-Paper-Conference.pdf}
     }
     ```
 ---

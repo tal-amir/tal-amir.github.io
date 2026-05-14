@@ -3,7 +3,7 @@ title: "The Stability of Generalized Phase Retrieval Problem Over Compact Groups
 collection: publications
 permalink: "/publication/2025-12 The stability of generalized phase retrieval"
 venue: '*Applied and Computational Harmonic Analysis* (ACHA)'
-authors: "Tamir Amir, Tamir Bendory, Nadav Dym, Dan Edidin"
+authors: "Tal Amir, Tamir Bendory, Nadav Dym, Dan Edidin"
 paperurl: 'https://doi.org/10.1016/j.acha.2025.101838'
 excerpt: #'A short description'
 #date: #2025-12-18
@@ -19,7 +19,7 @@ bibtex: |
     pages = {101838},
     year = {2026},
     issn = {1063-5203},
-    doi = {https://doi.org/10.1016/j.acha.2025.101838},
+    doi = {10.1016/j.acha.2025.101838},
     url = {https://www.sciencedirect.com/science/article/pii/S1063520325000922},
     author = {Tal Amir and Tamir Bendory and Nadav Dym and Dan Edidin}
     }

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:papers.nips.cc)",
+      "WebFetch(domain:proceedings.neurips.cc)",
+      "WebFetch(domain:neurips.cc)"
+    ]
+  }
+}
