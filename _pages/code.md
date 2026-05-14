@@ -24,7 +24,7 @@ Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Pr
 Efficient implementation of the FSW embedding—a Euclidean embedding for multisets and measures, which is bi-Lipschitz on multisets.  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
-<a href="https://tal-amir.github.io/soon" style="text-decoration: none;">`PyTorch`</a>
+<a href="https://pypi.org/project/fswlib/" style="text-decoration: none;">`PyTorch`</a>
 
 
 
@@ -35,7 +35,7 @@ A 1-WL poweful graph neural network for graphs with multidimensional vertex and 
 - Supports continuous edge weights while maintaining 1-WL separation (but not bi-Lipschitzness, which is provably impossible).  
      
 Part of our paper titled "[*FSW-GNN: A Bi-Lipschitz WL-Equivalent Graph Neural Network*](https://tal-amir.github.io/publication/2024-10%20FSWGNN)"  
-<a href="https://tal-amir.github.io/soon" style="text-decoration: none;">`PyTorch Geometric`</a>
+<a href="https://github.com/yonatansverdlov/Over-squashing" style="text-decoration: none;">`PyTorch Geometric`</a>
 
   
 [//]: <> (  https://github.com/tal-amir/fsw-gnn  )

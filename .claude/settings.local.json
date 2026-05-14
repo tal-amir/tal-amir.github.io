@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:papers.nips.cc)",
       "WebFetch(domain:proceedings.neurips.cc)",
-      "WebFetch(domain:neurips.cc)"
+      "WebFetch(domain:neurips.cc)",
+      "WebFetch(domain:pypi.org)"
     ]
   }
 }
