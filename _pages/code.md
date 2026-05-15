@@ -39,7 +39,7 @@ Part of our paper titled "[*FSW-GNN: A Bi-Lipschitz WL-Equivalent Graph Neural N
 
 ### Sparse Approximation by the Generalized Soft-Min Penalty
 
-Solver for the [sparse approximation](https://en.wikipedia.org/wiki/Sparse_approximation) problem, based on the Generalized Soft-Min (GSM) penalty, which achieved state-of-the-art recovery results at the time of publication.  
+Solver for the [sparse approximation](https://en.wikipedia.org/wiki/Sparse_approximation) problem, based on the Generalized Soft-Min (GSM) penalty. Achieved state-of-the-art results at the time of publication.  
 
 Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty*](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso)"  
 <a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none;">`Matlab, C`</a>

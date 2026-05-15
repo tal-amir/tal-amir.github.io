@@ -5,7 +5,8 @@
       "WebFetch(domain:proceedings.neurips.cc)",
       "WebFetch(domain:neurips.cc)",
       "WebFetch(domain:pypi.org)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.semanticscholar.org)"
     ]
   }
 }
