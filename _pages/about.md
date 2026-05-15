@@ -9,7 +9,7 @@ redirect_from:
 
 I am a research associate at the Faculty of Mathematics, Technion, working with [Dr. Nadav Dym](https://nadavdym.github.io).
 
-My main research interests are machine learning and optimization, with a focus on deep learning on structured data, such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
+My main research interests are machine learning and optimization, with a focus on deep learning on structured data such as sets, point clouds, and graphs. [More info](https://tal-amir.github.io/research/)
 
 I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home) at the Department of Computer Science and Applied Mathematics in the Weizmann Institute of Science.
 
@@ -27,10 +27,10 @@ I completed my Ph.D. in 2020 under the supervision of [Prof. Boaz Nadler](https:
 
 ## News 💥
 
-- **Mar 2026** — The [Trimmed Lasso / GSM](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso) sparse optimization solver is now available as a PyTorch package on PyPI: [`sparse-approx-gsm`](https://pypi.org/project/sparse-approx-gsm/). Thanks to [Shachar Cohen](https://github.com/Shaharcohe) (Weizmann) for this contribution!
-- **Dec 2025** — Our paper on [short-range oversquashing in GNNs](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing) received the *best paper award* at LoG 2025.
-- **Jan 2025** — [Fourier Sliced-Wasserstein Embedding](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding) accepted to ICLR 2025.
-- **Dec 2023** — [Neural Injective Functions for Multisets, Measures and Graphs](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions) accepted to NeurIPS 2023 as a *spotlight*.
+- **Mar 2026** — The [Trimmed Lasso / GSM](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso) sparse optimization solver is now available as a Python package: [`sparse-approx-gsm`](https://pypi.org/project/sparse-approx-gsm/). Thanks to [Shachar Cohen](https://github.com/Shaharcohe) (Weizmann) for this contribution!
+- **Dec 2025** — [Short-range oversquashing in GNNs paper](https://tal-amir.github.io/publication/2025-12%20Short-Range%20Oversquashing) received the *best paper award* at LoG 2025.
+- **Jan 2025** — [FSW Embedding paper](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding) accepted to ICLR 2025.
+- **Dec 2023** — [Finite Witness Theorem paper](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions) accepted to NeurIPS 2023 as a *spotlight*.
 
 <!--
 
