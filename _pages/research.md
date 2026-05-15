@@ -15,7 +15,7 @@ Applying deep learning to these data types poses distinct challenges, since they
 
 While it is relatively easy to construct architectures that are invariant to these symmetries (e.g., sum-pooling in the case of sets), a key challenge is that imposing invariance often comes at the cost of expressiveness. To unlock the full potential of deep learning for these data types, it is therefore necessary to develop new theory and algorithms.
 
-Our group's efforts have produced several results addressing these challenges, published in top-tier venues. For example: 
+Our group's efforts have already produced several results addressing these challenges, published in top-tier venues. For example:
 
 - In this [NeurIPS 2023 paper](https://tal-amir.github.io/publication/2023-12%20Neural%20Injective%20Functions) (spotlight paper, top 3%) we show how one can construct a simple and efficient neural architecture that takes multisets or measures as input, and injectively embeds them into Euclidean space. These results bridge the gap between the architectures studied in theory, which have beneficial theoretical properties but are not suitable for practical use, and the architectures used in practice—which typically lack theoretical guarantees.
 
