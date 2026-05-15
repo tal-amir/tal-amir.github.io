@@ -44,5 +44,12 @@ Solver for the [sparse approximation](https://en.wikipedia.org/wiki/Sparse_appro
 Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Practical Optimization by the Generalized Soft-Min Penalty*](https://tal-amir.github.io/publication/2021-09%20The%20Trimmed%20Lasso)"  
 <a href="https://github.com/tal-amir/sparse-approximation-gsm" style="text-decoration: none;">`Matlab, C`</a>
 <a href="https://pypi.org/project/sparse-approx-gsm/" style="text-decoration: none;">`Python`</a>
+
+<span style="font-size: 0.85em; font-style: italic;">Install the Python package:</span>
+
+```bash
+pip install sparse-approx-gsm
+```
+
 <span style="font-size: 0.85em; font-style: italic;">Python/CUDA implementation kindly contributed by <a href="https://github.com/Shaharcohe/sparse-approx-gsm">Shachar Cohen</a> (Weizmann).</span>
 
