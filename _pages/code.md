@@ -18,11 +18,8 @@ Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets a
 <a href="https://pypi.org/project/fswlib/" style="text-decoration: none;">`PyPI`</a>
 <a href="https://github.com/tal-amir/fswlib" style="text-decoration: none;">`GitHub`</a>
 
-<span style="font-size: 0.85em; font-style: italic;">Install the PyTorch package:</span>
-
-```bash
-pip install fswlib
-```
+<span style="font-size: 0.85em; font-style: italic;">Install the PyTorch package:</span>  
+`pip install fswlib`
 
 
 
