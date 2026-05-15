@@ -9,7 +9,7 @@ author_profile: true
 
 My main research goal is to facilitate deep learning on structured data, such as sets, point clouds, and graphs, by developing new theoretical frameworks and practical algorithms. 
 
-These efforts are driven by the growing number of applications involving such data. For example, 3D shape analysis, molecular property prediction, recommendation systems, and social network analysis.
+These efforts are driven by the growing number of applications involving such data. For example, 3D shape analysis, social network analysis, and molecular property prediction.
 
 Applying deep learning to these data types poses distinct challenges, since they have inherent symmetries: sets are invariant to the order of their elements, graphs to relabeling of their nodes, and point clouds to rotations and translations. Consequently, naively feeding such data to neural models typically results in overfitting irrelevant aspects of the input representation. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem.
 
