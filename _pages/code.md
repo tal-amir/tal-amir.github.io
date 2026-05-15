@@ -51,5 +51,5 @@ Part of our paper titled "[*The Trimmed Lasso: Sparse Recovery Guarantees and Pr
 pip install sparse-approx-gsm
 ```
 
-<span style="font-size: 0.85em; font-style: italic;">Python/CUDA implementation kindly contributed by <a href="https://github.com/Shaharcohe/sparse-approx-gsm">Shachar Cohen</a> (Weizmann).</span>
+<span style="font-size: 0.85em; font-style: italic;">Python implementation kindly contributed by <a href="https://github.com/Shaharcohe/sparse-approx-gsm">Shachar Cohen</a> (Weizmann).</span>
 
