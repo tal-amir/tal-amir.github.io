@@ -6,7 +6,11 @@
       "WebFetch(domain:neurips.cc)",
       "WebFetch(domain:pypi.org)",
       "WebSearch",
-      "WebFetch(domain:www.semanticscholar.org)"
+      "WebFetch(domain:www.semanticscholar.org)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:ieeexplore.ieee.org)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebFetch(domain:dl.acm.org)"
     ]
   }
 }
