@@ -12,14 +12,17 @@ author_profile: true
 ### Fourier Sliced-Wasserstein (FSW) Embedding
 
 Efficient implementation of the FSW embedding—a bounded-distortion Euclidean embedding for multisets over $\mathbb{R}^d$. It serves as a drop-in replacement for sum-pooling, which provably incurs infinite distortion.  
-- Supports weighted multisets, with bounded-distortion guarantees when the weights are drawn from a finite set.  
+- Supports weighted multisets (maintains the bounded-distortion guarantee if the weights originate from a finite set).  
 
 Part of our paper titled "[*Fourier Sliced-Wasserstein Embedding for Multisets and Measures*](https://tal-amir.github.io/publication/2024-05%20Fourier%20Sliced-Wasserstein%20Embedding)"  
 <a href="https://pypi.org/project/fswlib/" style="text-decoration: none;">`PyPI`</a>
 <a href="https://github.com/tal-amir/fswlib" style="text-decoration: none;">`GitHub`</a>
 
-<span style="font-size: 0.85em; font-style: italic;">Install the PyTorch package:</span>  
-`pip install fswlib`
+<span style="font-size: 0.85em; font-style: italic;">Install the PyTorch package:</span>
+
+```bash
+pip install fswlib
+```
 
 
 
