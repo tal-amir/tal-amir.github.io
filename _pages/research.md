@@ -7,16 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-My main research goal is to facilitate deep learning on structured data—such as sets, point clouds, and graphs—by developing new theoretical frameworks and practical algorithms. 
+My main research goal is to facilitate deep learning on structured data, such as sets, point clouds, and graphs, by developing new theoretical frameworks and practical algorithms. 
 
-These efforts are driven by the growing demand for deep learning in applications involving such data—for example, 3D shape analysis, molecular property prediction, recommendation systems, and social network analysis.
+These efforts are driven by the growing number of applications involving such data. For example, 3D shape analysis, molecular property prediction, recommendation systems, and social network analysis.
 
-Applying deep learning to these data types poses unique challenges, as they have inherent symmetries: sets are invariant to the order of their elements, graphs to relabeling of their nodes, and point clouds to rotations and translations.           
+These data types have inherent symmetries: sets are invariant to the order of their elements, graphs to relabeling of their nodes, and point clouds to rotations and translations. Consequently, applying deep learning to them poses unique challenges. Naively feeding this kind of data to neural models typically results in overfitting irrelevant aspects of the input representation. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem.
 
-Consequently, naively feeding such data to neural models typically results in overfitting the irrelevant symmetries of the input. For instance, in the case of sets, the model may overfit the order in which the set elements are given, which is irrelevant to the problem. While it is relatively simple to construct architectures that are invariant to these symmetries, a key challenge is to ensure that they remain expressive enough for the task at hand.
-
-
-Thus, to unlock the full potential of deep learning for such data types, it is necessary to develop new theory and algorithms.
+While it is relatively easy to construct architectures that are invariant to these symmetries (e.g., sum-pooling in the case of sets), a key challenge is to ensure that they remain expressive enough for the task at hand. Thus, to unlock the full potential of deep learning for these data types, it is necessary to develop new theory and algorithms.
 
 Our group's efforts have produced several results addressing these challenges, published in top-tier venues. For example: 
 
