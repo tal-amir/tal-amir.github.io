@@ -27,6 +27,6 @@ Our group's efforts have already produced several results addressing these chall
 
 - In this [LoG 2025 paper](https://tal-amir.github.io/publication/2024-10%20FSWGNN), we extend our approach to graphs, introducing the first graph neural network with bounded-distortion Weisfeiler-Leman (WL) separation power. Our model provides bi-Lipschitz separation guarantees with respect to two standard graph metrics, and performs competitively with standard MPNNs while being more robust on long-range tasks.
 
-Recent work by independent groups has corroborated that the FSW embedding's metric properties can translate to improved performance on practical learning tasks. [Shivottam and Mishra (2026)](https://arxiv.org/abs/2605.06588) leverage FSW-GNN's bi-Lipschitzness to obtain significant performance gains on graph edit distance prediction. [Chen et al. (ICLR 2026)](https://openreview.net/forum?id=13r06yROEZ) report that the FSW embedding achieves the strongest results among non-adversarial baseline embeddings on one of two recommendation benchmarks.
+Recent work by independent groups has corroborated that the FSW embedding's metric properties can translate to improved performance on practical learning tasks (see, e.g., [Shivottam and Mishra (2026)](https://arxiv.org/abs/2605.06588) and [Chen et al. (ICLR 2026)](https://openreview.net/forum?id=13r06yROEZ)).
 
 We are currently working on extending our approach to 3D point clouds under rotation invariance, with applications to molecular data.
