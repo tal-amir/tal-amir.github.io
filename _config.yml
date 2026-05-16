@@ -34,6 +34,7 @@ author:
   bio              : "Applied Mathematician"
   location         : "Haifa, Israel"
   employer         : "Technion"
+  employer_url     : "https://math.technion.ac.il/en/"
   uri              : # URL
   email            : "talamir@technion.ac.il" 
 
